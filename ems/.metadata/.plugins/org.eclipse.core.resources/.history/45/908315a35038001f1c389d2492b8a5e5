@@ -1,0 +1,5 @@
+package com.jspiders.ems_backend.exception;
+
+public class ResourceNotFoundException {
+
+}

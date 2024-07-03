@@ -1,0 +1,19 @@
+package com.jspiders.ems_backend.mapper;
+
+import com.jspiders.ems_backend.dto.EmployeeDto;
+import com.jspiders.ems_backend.entity.Employee;
+
+public class EmployeeMapper {
+	
+	public static EmployeeDto mapToEmployeeDto(Employee employee) {
+		
+		return new EmployeeDto(
+				
+				
+				
+				
+				);
+		
+	}
+
+}

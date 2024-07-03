@@ -1,0 +1,5 @@
+package com.jspiders.ems_backend.entity;
+
+public class Employee {
+
+}
